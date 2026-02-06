@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.31+commit.fd3a2265"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "state_var",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/variable.sol": "var_test"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/variable.sol": {
+			"keccak256": "0x3418ebbf18d352e434d17de321a1c2d75131e94f2aadc407ea816998ec526dfa",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://b469502b79bb460618bff5d4a69d5f20422d292ec93a0746c63d24eb7f150095",
+				"dweb:/ipfs/QmZuyn2jG3c14Jqpnh4tWdWh1Ve53Y5kXqmotEZtaTKgST"
+			]
+		}
+	},
+	"version": 1
+}

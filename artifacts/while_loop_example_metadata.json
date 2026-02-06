@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.31+commit.fd3a2265"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "sum",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "data",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/loops.sol": "while_loop_example"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/loops.sol": {
+			"keccak256": "0x906098117acfdddbf65214ccdd8ea3fc1a8c75cdf87cc60de0fa7a53ee5189c7",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://45557e8da169d1a7040f10a3614323ed7134d20343f585ca15dba2f45b47e4e1",
+				"dweb:/ipfs/QmQmZYinMfS59zsD7qRK7a4wTHj89qks9Z3kr24LXXPUvf"
+			]
+		}
+	},
+	"version": 1
+}
